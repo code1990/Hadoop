@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>Hadoop</groupId>
+    <artifactId>Hadoop</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>HDFS</module>
+        <module>YARN</module>
+        <module>MapReduce</module>
+        <module>Hive</module>
+        <module>HBase</module>
+        <module>ZooKeeper</module>
+        <module>Mahout</module>
+        <module>Flume</module>
+        <module>Sqoop</module>
+        <module>Pig</module>
+        <module>Oozie</module>
+        <module>Mesos</module>
+        <module>Tachyon</module>
+        <module>Tez</module>
+        <module>Phoenix</module>
+        <module>Ranger</module>
+        <module>Knox</module>
+        <module>Falcon</module>
+        <module>Ambari</module>
+    </modules>
+
+
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ambari" />
+        <module name="Falcon" />
+        <module name="Flume" />
+        <module name="HBase" />
+        <module name="HDFS" />
+        <module name="Hive" />
+        <module name="Knox" />
+        <module name="Mahout" />
+        <module name="MapReduce" />
+        <module name="Mesos" />
+        <module name="Oozie" />
+        <module name="Phoenix" />
+        <module name="Pig" />
+        <module name="Ranger" />
+        <module name="Sqoop" />
+        <module name="Tachyon" />
+        <module name="Tez" />
+        <module name="YARN" />
+        <module name="ZooKeeper" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
