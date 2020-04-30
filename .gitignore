@@ -92,3 +92,6 @@ hsf.configuration/
 *.instance
 out
 **/idea-sandbox
+*mvnw*
+*.mvn/*
+*.idea/*
